@@ -3,10 +3,10 @@
 This repository contains code and models for detecting brain tumors from MRI images using Convolutional Neural Networks (CNN). The project also demonstrates the importance of data augmentation to improve model generalization and performance.
 
 ## Project Structure
-📦 Brain-Tumor-Detection/
+ Brain-Tumor-Detection
 ├── Brain_tumour_detection.ipynb # CNN model for classification
 ├── Augmentation.ipynb # Image augmentation techniques
-├── dataset/ # (Optional) Directory for MRI images
+├── dataset/ #  Directory for MRI images
 ├── saved_model/ # Trained model weights
 └── README.md # Project documentation
 
